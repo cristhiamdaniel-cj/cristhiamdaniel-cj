@@ -91,8 +91,8 @@ Una aplicación destinada a mejorar la accesibilidad y eficiencia de soluciones 
 
 ## 📈 Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhiamdaniel&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhiamdaniel-cj&layout=compact" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristhiamdaniel&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cristhiamdaniel-cj&show_icons=true" />
 </p>
